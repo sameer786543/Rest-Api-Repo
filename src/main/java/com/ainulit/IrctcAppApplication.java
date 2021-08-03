@@ -8,6 +8,8 @@ public class IrctcAppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(IrctcAppApplication.class, args);
+		
+		System.out.println("Hello");
 	}
 
 }
